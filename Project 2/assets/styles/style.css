@@ -1,0 +1,196 @@
+header {
+    font-family: 'Barlow', 'Kanit', serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 42px;
+    line-height: 50px;
+     
+}
+h1 {
+width: 425px;
+height: 136px;
+left: 100px;
+top: 421px;
+font-size: 51px;
+font-family: 'Playfair Display', 'Kanit', Times, serif;
+line-height: 60px;
+
+
+}
+h2 {
+   
+    font-size: 51px;
+    font-family: 'Playfair Display', 'Kanit', Times, serif;
+    line-height: 60px;
+    text-align: center;
+}
+h3{
+    width: 117px;
+    height: 36px;
+    left: 199px;
+    top: 1159px;
+    font-size: 27px;
+    font-family: 'Playfair Display', 'Kanit', Times, serif;
+    line-height: 32px;
+    text-align: center;
+}
+h4 {
+    width: 65px;
+height: 29px;
+left: 815px;
+top: 3379px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 24px;
+line-height: 29px;
+}
+.maininfo {
+    background-image: url('./../images/backgroundpic.png');
+    width: 1300px;
+    height: 739px;
+    margin-left: 200px;
+    background-repeat: no-repeat;
+
+}
+.mainblock {
+    padding-top: 200px;
+    margin-left: 10px;
+    min-height: 100px;
+    width: 600px;
+    border: 1px solid rgba(240, 221, 221,0.5);
+    background-color: rgba(240, 221, 221,0.5);
+    display: flex;
+    flex-direction: column;
+}
+section
+{
+    border: #60646d;
+}
+.aboutus {
+    padding-top: 50px;
+    min-height: 600px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+.aboutflex {
+    min-height: 600px;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+}
+#headeraboutus {
+    font-size: 51px;
+    text-align: center;
+}
+#buildingplan {
+    width: 735px;
+    height: 571px;
+    
+}
+#about {
+    font-size: 31px;
+    font-style: normal;
+    font-family: 'Playfair Display', 'Kanit', Times, serif;
+}
+#read {
+    font-size: 24px;
+    text-align: center;
+text-decoration: none;
+color: black;
+}
+#read:hover {
+    text-decoration: underline;
+}
+p {
+    font-family:'Playfair Display', 'Kanit', Times, serif; 
+    text-align: center;
+}
+nav {
+    padding-inline: 20px;
+    padding-left: 400px;
+    padding-bottom: 50px;
+    font-family: 'Inter', 'Kanit', serif;
+}
+nav .menu {
+text-decoration: none;
+font-size: 24px;
+color: black;
+padding: 40px;
+}
+nav .menu:hover {
+    text-decoration: underline;
+}
+.headernav {
+    padding-top: 100px;
+    display: flex;
+    flex-direction: row;
+
+}
+.photobox {
+    padding-left: 100px;
+    min-height: 300px;
+    width: 1200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-flow: row wrap ;
+}
+.picture {
+    width: 344px;
+    height: 193px;
+    left: 100px;
+    top: 2192px;
+    
+}
+.footermenu:hover {
+    text-decoration: underline;
+}
+#services {
+    background-color: rgba(37, 77, 77, 0.2); ;
+}
+.box {
+    min-height: 150px;
+    padding-bottom: 100px;
+    display: flex;
+flex-direction: row;
+justify-content: space-around;
+}
+.recommendation {
+    min-height: 30px;
+    width: 450px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+footer {
+    background-color:#2E2F32;
+}
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.footermenu {
+text-decoration: none;
+color: #FAFAFA;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 21px;
+}
+.column {
+    padding-inline: 30px;
+    padding-left: 100px;
+}
+.maininfo {
+    background-image: url('./../images/backgroundpic.png');
+    width: 1300px;
+    height: 739px;
+    margin-left: 200px;
+    background-repeat: no-repeat;
+
+}
